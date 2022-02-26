@@ -119,6 +119,16 @@ Next, in the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to st
 7. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Git repository.
 
 
+---
+## Usage
+Create and compile the KaseiCoin Token Contract
+Create and compile the KaseiCoin Crowdsale Contract
+![Screen Shot 2022-02-26 at 1 00 42 PM](https://user-images.githubusercontent.com/85980757/155854096-d5f09191-63b0-4b2b-b022-38a4b27a1d32.png)
+
+
+![Screen Shot 2022-02-26 at 1 00 22 PM](https://user-images.githubusercontent.com/85980757/155854086-3f52d8e9-b8fc-4f4c-8e1f-64c25944db14.png)
+
+Deploy the Crowdsale to a Local Blockchain
 
 
 ---
