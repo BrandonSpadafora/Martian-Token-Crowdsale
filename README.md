@@ -129,6 +129,11 @@ Create and compile the KaseiCoin Crowdsale Contract
 ![Screen Shot 2022-02-26 at 1 00 22 PM](https://user-images.githubusercontent.com/85980757/155854086-3f52d8e9-b8fc-4f4c-8e1f-64c25944db14.png)
 
 Deploy the Crowdsale to a Local Blockchain
+![Screen Shot 2022-03-02 at 6 22 26 PM](https://user-images.githubusercontent.com/85980757/156466399-18aea53f-8081-4306-80c9-90ae5c6a57f3.png)
+
+Test and check transaction went through
+![Screen Shot 2022-03-02 at 6 24 44 PM](https://user-images.githubusercontent.com/85980757/156466660-c45a465a-107e-4321-9a4a-ed9d6a2db4d9.png)
+
 
 
 ---
